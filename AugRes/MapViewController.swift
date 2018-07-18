@@ -3,7 +3,7 @@
 //
 //  Created by Tamer Sherif on 2018-07-12.
 //  Copyright © 2018 Tamer Sherif. All rights reserved.
-//
+//  Make sure to include SwiftyJSON
 
 import UIKit
 import GoogleMaps
